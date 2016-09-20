@@ -1,2 +1,2 @@
 # BNC_Full
-BNC Full Corpus and Wrod Counts
+BNC Full Corpus and Word Counts
